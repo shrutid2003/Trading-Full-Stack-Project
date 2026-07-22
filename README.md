@@ -123,5 +123,4 @@ Live : zerodha-clone-frontend.vercel.app
 
 
 
-- **[Apna College's Sigma 1.0 Course](https://www.apnacollege.in/)** - Course resource.
-- *Jenil Desai GitHub Reprosetry ("https://github.com/Jenil-Desai/Zerodha-Clone.git").
+- **[Apna College's Sigma Course](https://www.apnacollege.in/)** - Course resource.
